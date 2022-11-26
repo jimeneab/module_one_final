@@ -1,0 +1,24 @@
+{
+  "name": "module_one_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "src/node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimeneab/module_one_final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimeneab/module_one_final/issues"
+  },
+  "homepage": "https://github.com/jimeneab/module_one_final#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
