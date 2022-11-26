@@ -2,11 +2,6 @@ pipeline {
     agent any
 
     stages{
-        stage('Cloning Repo'){
-            steps {
-                git 'https://github.com/jimeneab/module_one_final'
-            }
-        }
 
         stage('Install dependecies'){
             steps {
